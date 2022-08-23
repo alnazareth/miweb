@@ -1,1 +1,2 @@
 programa en el archivo2.txt
+2 programa en el archivo2.txt
